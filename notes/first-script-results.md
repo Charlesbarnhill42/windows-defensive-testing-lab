@@ -34,3 +34,15 @@
 - list_services.ps1
 - startup_items.ps1
 - defender_status.ps1
+## list_services.ps1
+
+### Result
+- The script successfully listed Windows services on the machine.
+- I observed that services can be reviewed by status and display name.
+- I still need to learn which services are expected, unnecessary, or suspicious.
+- ## startup_items.ps1
+## list_services.ps1
+### Result
+- The script successfully listed startup items.
+- I observed that startup programs can be reviewed by name, command, location, and user.
+- I still need to learn which startup items are normal and which might deserve review.
